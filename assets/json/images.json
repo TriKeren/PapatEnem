@@ -1,0 +1,12 @@
+{
+    "images": [
+        {"title": "Banner", "path":"assets/image/pavo.png", "price": "20.000"},
+        {"title": "Stiker A3 Bontaks", "path":"assets/image/pavo2.png", "price": "20.000"},
+        {"title": "Poster A3", "path":"assets/image/nf4.png", "price": "20.000"},
+        {"title": "Stiker A3 Glossy", "path":"assets/image/nf2.png", "price": "20.000"},
+        {"title": "Nota 2ply", "path":"assets/image/nf.png", "price": "20.000"},
+        {"title": "Nota 3ply", "path":"assets/image/person-donald-900x1080.png", "price": "20.000"},
+        {"title": "Pas Foto", "path":"assets/image/img_6172.png", "price": "20.000"},
+        {"title": "Mug", "path":"assets/image/sadboy.png", "price": "20.000"}
+    ]
+}
